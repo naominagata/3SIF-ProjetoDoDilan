@@ -1,1 +1,1 @@
-# guarde aqui somente programas de computador escritos com editor de linguagem (.java, .c, .php, .sql, etc)
+# guarde aqui somente programas de computador escritos com editor de linguagem (.java, .c, .php, .sql, etc) - formatos .txt, .astah
